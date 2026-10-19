@@ -9,12 +9,16 @@ Programming has been my passion for a while (it helps that everyone assured me t
 
 
 Languages known:   
-Python, Java, HTML, CSS, JavaScript  
-Currrently learning CLI and Object-Oriented Javascript  
+Python, Java, HTML, CSS, JavaScript, SQL, C#
 Looking to teach myself C++ at some point
 
 Skills:   
-Writing programs, solving problems efficiently (though I don't have minimum complexity down yet), building and styling webpages
+Frontend and Backend web development
+OOP
+MVC
+Working with APIs and Databases
+Debugging and testing
+Modular and flexible code
 
 Stats:  
 [Leetcode profile](https://leetcode.com/u/blthomps/)
